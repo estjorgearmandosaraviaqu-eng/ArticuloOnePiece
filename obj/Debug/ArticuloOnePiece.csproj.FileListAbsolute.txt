@@ -1,0 +1,8 @@
+C:\Users\AORUS 15P\Source\Repos\ArticuloOnePiece\bin\Debug\ArticuloOnePiece.exe.config
+C:\Users\AORUS 15P\Source\Repos\ArticuloOnePiece\bin\Debug\ArticuloOnePiece.exe
+C:\Users\AORUS 15P\Source\Repos\ArticuloOnePiece\bin\Debug\ArticuloOnePiece.pdb
+C:\Users\AORUS 15P\Source\Repos\ArticuloOnePiece\obj\Debug\ArticuloOnePiece.csproj.AssemblyReference.cache
+C:\Users\AORUS 15P\Source\Repos\ArticuloOnePiece\obj\Debug\ArticuloOnePiece.csproj.SuggestedBindingRedirects.cache
+C:\Users\AORUS 15P\Source\Repos\ArticuloOnePiece\obj\Debug\ArticuloOnePiece.csproj.CoreCompileInputs.cache
+C:\Users\AORUS 15P\Source\Repos\ArticuloOnePiece\obj\Debug\ArticuloOnePiece.exe
+C:\Users\AORUS 15P\Source\Repos\ArticuloOnePiece\obj\Debug\ArticuloOnePiece.pdb
